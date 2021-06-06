@@ -10,7 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: valerienierenberg/metrics@main
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+      - uses: valerienierenberg/metrics@main
+        with:
+         # ... other options
+         plugin_topics: yes
+         plugin_topics_sort: stars    # Sort by most starred topics
+         plugin_topics_mode: mastered # Display icons instead of labels
+         plugin_topics_limit: 0       # Disable limitations
