@@ -4,7 +4,6 @@
 ![Metrics](https://github.com/valerienierenberg/valerienierenberg/blob/master/github-metrics.svg)
 <!-- If you're using "main" as default branch -->
 
-
 <!--
 **valerienierenberg/valerienierenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
