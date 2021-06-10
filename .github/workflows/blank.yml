@@ -27,6 +27,7 @@ jobs:
           plugin_languages_recent.load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
           plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
           plugin_pagespeed_screenshot: yes                        # Display a screenshot of your website
