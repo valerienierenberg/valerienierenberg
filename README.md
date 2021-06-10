@@ -1,3 +1,4 @@
+<p align="center">
 ![alt text](https://github.com/valerienierenberg/valerienierenberg/blob/main/READMEbanner2.png?raw=true)
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/valerienierenberg/valerienierenberg/blob/main/github-metrics.svg)
@@ -16,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+</p>
