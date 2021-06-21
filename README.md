@@ -1,4 +1,4 @@
-![alt text](https://github.com/valerienierenberg/valerienierenberg/blob/main/READMEbanner5.png?raw=true)
+![alt text](https://github.com/valerienierenberg/valerienierenberg/blob/main/bannerforgithub.pdf?raw=true)
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/valerienierenberg/valerienierenberg/blob/main/github-metrics.svg)
 
