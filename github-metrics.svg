@@ -1209,7 +1209,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            3030 Commits
+            3035 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1326,14 +1326,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.75094048578956" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="383.75094048578956" y="0" width="29.403833136921243" height="8" fill="#9400ff"/>
-                    <rect mask="url(#languages-bar)" x="413.1547736227108" y="0" width="17.26486506894199" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="430.4196386916528" y="0" width="10.49498542415572" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="440.9146241158085" y="0" width="8.101958098155704" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.0165822139642" y="0" width="7.076444303015757" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.09302651698" y="0" width="2.810427728891993" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.90345424587196" y="0" width="1.0965457541280248" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.747745901351" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="383.747745901351" y="0" width="29.403588360901537" height="8" fill="#9400ff"/>
+                    <rect mask="url(#languages-bar)" x="413.15133426225253" y="0" width="17.268550674951587" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="430.4198849372041" y="0" width="10.494898057289397" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="440.9147829944935" y="0" width="8.101890652355495" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.016673646849" y="0" width="7.076385394238043" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.09305904108703" y="0" width="2.81040433312213" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.90346337420914" y="0" width="1.0965366257907811" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1530,7 +1530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 18 Aug 2021 22:14:11 (timezone America/Chicago) with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Wed, 18 Aug 2021 23:14:23 (timezone America/Chicago) with lowlighter/metrics@3.11.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
